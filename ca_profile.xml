@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommunityApplications>
+  <Profile>Unraid Docker templates maintained by finalbillybong. Kitchen Cupboard provides a self-hosted recipe library, meal planner and collaborative shopping lists for households, and is currently in beta. Application source, installation and backup instructions are available in the Kitchen-cupboard repository. Report bugs and request help through its GitHub Issues page.</Profile>
+  <Icon>https://raw.githubusercontent.com/finalbillybong/Kitchen-cupboard/main/frontend/public/icon-512.png</Icon>
+  <WebPage>https://github.com/finalbillybong/unraid-templates</WebPage>
+  <Forum>https://github.com/finalbillybong/Kitchen-cupboard/issues</Forum>
+</CommunityApplications>
